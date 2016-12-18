@@ -22,5 +22,7 @@ Insert this preloader.js in document `<head>` or `<body>` with "async" attribute
 [Demo](https://iiibird.github.io/preloader/demo/)
 
 ## Changelog
+
 Version 1.1.0
+
 Added asynchronously execute

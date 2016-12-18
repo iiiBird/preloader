@@ -2,4 +2,4 @@
 
 [Demo](https://iiibird.github.io/preloader/demo/)
 
-[Download](https://raw.githubusercontent.com/iiiBird/preloader/master/preloader.js)
+[Download](https://github.com/iiiBird/preloader/releases)

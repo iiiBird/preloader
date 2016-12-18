@@ -1,12 +1,9 @@
 # Preloader by Rose team
 
-## Demo
-[Demo](https://iiibird.github.io/preloader/demo/)
-
-## Download
+## Manual Download - Stable Release
 [Download](https://github.com/iiiBird/preloader/releases)
 
-## Usage
+## Demo and Documentation
 Insert this preloader.js in document `<head>` or `<body>`
 
 ```html
@@ -20,3 +17,5 @@ Insert this preloader.js in document `<head>` or `<body>`
 </head>
 <body>
 ```
+
+[Demo](https://iiibird.github.io/preloader/demo/)

@@ -23,10 +23,10 @@ Insert this preloader.js in document `<head>` or `<body>` with "async" attribute
 
 ## Changelog
 
-__Version 1.1.0__
-
-Added asynchronously execute
-
 __Version 1.1.1__
 
 Added preloader.min.js
+
+__Version 1.1.0__
+
+Added asynchronously execute

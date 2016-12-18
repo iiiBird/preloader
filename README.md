@@ -7,7 +7,7 @@ Preloader in Javascript. Without jQuery.
 
 ## Demo and Documentation
 ### Usage
-The best option - insert this preloader.js in document right after `<body>` tag:
+The best option - insert this preloader.js in document right after `<body>` tag (at first line):
 
 ```html
 <!DOCTYPE html>

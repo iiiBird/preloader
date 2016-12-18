@@ -7,7 +7,7 @@ Preloader in Javascript. Without jQuery.
 
 ## Demo and Documentation
 ### Usage
-Insert this preloader.js in document `<head>` with "async" attribute
+The best option - insert this preloader.js in document right after `<body>` tag:
 
 ```html
 <!DOCTYPE html>
@@ -15,10 +15,11 @@ Insert this preloader.js in document `<head>` with "async" attribute
 <head>
 	<meta charset="UTF-8">
 	<title>Preloader demo</title>
-
-	<script async src="../preloader.js"></script>
 </head>
 <body>
+	<script async src="../preloader.js"></script>
+	
+	<!-- Content -->
 ```
 ### Demo
 [See a Demo](https://iiibird.github.io/preloader/demo/)

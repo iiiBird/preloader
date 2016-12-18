@@ -23,6 +23,6 @@ Insert this preloader.js in document `<head>` or `<body>` with "async" attribute
 
 ## Changelog
 
-Version 1.1.0
+__Version 1.1.0__
 
 Added asynchronously execute

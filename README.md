@@ -1,5 +1,7 @@
 # Preloader by Rose team
 
+Preloader in Javascript. Without jQuery.
+
 ## Manual Download - Stable Release
 [Download](https://github.com/iiiBird/preloader/releases)
 

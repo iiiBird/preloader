@@ -18,5 +18,4 @@ Insert this preloader.js in document `<head>` or `<body>`
 </head>
 <body>
 ```
-### Demo
-[Demo](https://iiibird.github.io/preloader/demo/)
+[### Demo](https://iiibird.github.io/preloader/demo/)

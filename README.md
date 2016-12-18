@@ -7,7 +7,7 @@ Preloader in Javascript. Without jQuery.
 
 ## Demo and Documentation
 ### Usage
-Insert this preloader.js in document `<head>` or `<body>` with "async" attribute
+Insert this preloader.js in document `<head>` with "async" attribute
 
 ```html
 <!DOCTYPE html>

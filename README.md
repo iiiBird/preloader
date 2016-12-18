@@ -5,7 +5,7 @@
 
 ## Demo and Documentation
 ### Usage
-Insert this preloader.js in document `<head>` or `<body>`
+Insert this preloader.js in document `<head>` or `<body>` with "async" attribute
 
 ```html
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ Insert this preloader.js in document `<head>` or `<body>`
 	<meta charset="UTF-8">
 	<title>Preloader demo</title>
 
-	<script src="../preloader.js"></script>
+	<script async src="../preloader.js"></script>
 </head>
 <body>
 ```

@@ -7,8 +7,9 @@
 /* preloader */
 
 ;(function () {
-    document.write(`
-        <style>
+	var preloaderDiv = document.createElement('div');
+	preloaderDiv.innerHTML = `
+		<style>
             #preloader_preload {
                 display: block;
                 z-index: 99999;
@@ -27,7 +28,9 @@
             }
         </style>
         <div id="preloader"><div id="preloader_preload"></div></div>
-    `);
+	`;
+	
+	document.body.insertBefore(preloaderDiv, document.body.firstChild);
 
     var preloaderStart = document.getElementById("preloader_preload");
 

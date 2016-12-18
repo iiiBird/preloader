@@ -19,7 +19,7 @@ Insert this preloader.js in document `<head>` or `<body>` with "async" attribute
 <body>
 ```
 ### Demo
-[Demo](https://iiibird.github.io/preloader/demo/)
+[See a Demo](https://iiibird.github.io/preloader/demo/)
 
 ## Changelog
 

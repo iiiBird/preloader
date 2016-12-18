@@ -4,6 +4,7 @@
 [Download](https://github.com/iiiBird/preloader/releases)
 
 ## Demo and Documentation
+### Usage
 Insert this preloader.js in document `<head>` or `<body>`
 
 ```html
@@ -17,5 +18,5 @@ Insert this preloader.js in document `<head>` or `<body>`
 </head>
 <body>
 ```
-
+### Demo
 [Demo](https://iiibird.github.io/preloader/demo/)

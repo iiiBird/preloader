@@ -1,12 +1,17 @@
-# Preloader by Rose team
+# Simple preloader in Javascript
+Version 1.1.1
 
-Preloader in Javascript. Without jQuery.
+## Summary
+Simple preloader in Javascript. Without jQuery.
+
+## Author
+
+iBird Rose ([vk.com](https://vk.com/iiibird))
 
 ## Manual Download - Stable Release
 [Download](https://github.com/iiiBird/preloader/releases)
 
-## Demo and Documentation
-### Usage
+## Usage
 The best option - insert this preloader.js in document right after `<body>` tag (before content):
 
 ```html
@@ -22,15 +27,15 @@ The best option - insert this preloader.js in document right after `<body>` tag 
 	<!-- Content -->
 ```
 
-### Demo
+## Demo
 [See a Demo](https://iiibird.github.io/preloader/demo/)
 
 ## Changelog
 
 __Version 1.1.1__
 
-Added preloader.min.js
+* Added preloader.min.js
 
 __Version 1.1.0__
 
-Added asynchronously execute
+* Added asynchronously execute

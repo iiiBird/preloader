@@ -12,7 +12,7 @@ iBird Rose ([vk.com](https://vk.com/iiibird))
 [Download](https://github.com/iiiBird/preloader/releases)
 
 ## Usage
-The best option - insert this preloader.js in document right after `<body>` tag (before content):
+The best practice - insert this preloader.js in document right after `<body>` tag (before content):
 
 ```html
 <!DOCTYPE html>

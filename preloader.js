@@ -1,7 +1,10 @@
 /**
- * preloader.js
+ * Simple preloader in Javascript
  * 
- * Copyright 2016, iBird Rose
+ * Copyright (c) 2016 iBird Rose
+ * Dual licensed under the MIT and GPL licenses.
+ *
+ * Version 1.1.1
  */
 
 /* preloader */
